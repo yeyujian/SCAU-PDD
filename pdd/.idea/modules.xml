@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/broadcast-service/broadcast-service.iml" filepath="$PROJECT_DIR$/broadcast-service/broadcast-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chat-servcie/chat-servcie.iml" filepath="$PROJECT_DIR$/chat-servcie/chat-servcie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chat2-service/chat2-service.iml" filepath="$PROJECT_DIR$/chat2-service/chat2-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-customer/dubbo-customer.iml" filepath="$PROJECT_DIR$/dubbo-customer/dubbo-customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/file-service/file-service.iml" filepath="$PROJECT_DIR$/file-service/file-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/groupbuy-service/groupbuy-service.iml" filepath="$PROJECT_DIR$/groupbuy-service/groupbuy-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pdd.iml" filepath="$PROJECT_DIR$/pdd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search-service/search-service.iml" filepath="$PROJECT_DIR$/search-service/search-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-api/service-api.iml" filepath="$PROJECT_DIR$/service-api/service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-app/user-app.iml" filepath="$PROJECT_DIR$/user-app/user-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service/user-service.iml" filepath="$PROJECT_DIR$/user-service/user-service.iml" />
+    </modules>
+  </component>
+</project>

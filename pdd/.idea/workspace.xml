@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="groupbuy-service" />
+      <module name="dubbo-customer" />
+      <module name="demo" />
+      <module name="chat-servcie" />
+      <module name="file-service" />
+      <module name="broadcast-service" />
+      <module name="pdd" />
+      <module name="user-service" />
+      <module name="service-api" />
+    </loaded-modules>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4feeb4a-f5fc-4b66-b770-34074435b82d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/service-api/src/main/java/model/GoodsInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-api/src/main/java/model/GoodsProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-api/src/main/java/model/OrderShipping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-api/src/main/java/model/PddOrderProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-api/src/main/java/model/PddProductSku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-api/src/main/java/model/UserMoney.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-api/src/main/java/model/Vo/OrderVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-api/src/main/java/service/CommentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-api/src/main/java/service/GroupBuyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-api/src/main/java/service/PddGoodsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-api/src/main/java/service/PddOrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-api/src/main/java/service/PddOrderShippingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-api/src/main/java/service/PddPayService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-api/src/main/java/service/PictureService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-api/src/main/java/service/SearchService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-api/service-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/service-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-api/src/main/java/annotation/JwtCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/src/main/java/annotation/JwtCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-api/src/main/java/common/JwtCheckAop.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/src/main/java/common/JwtCheckAop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-api/src/main/java/common/TokenCheckAop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-api/src/main/java/controller/ExceptionHandlerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/src/main/java/controller/ExceptionHandlerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-api/src/main/java/entity/ResultEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/src/main/java/entity/ResultEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-api/src/main/java/model/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/src/main/java/model/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-api/src/main/java/model/OrderProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/src/main/java/model/OrderProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-api/src/main/java/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/src/main/java/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-api/src/main/java/model/ZbInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/src/main/java/model/ZbInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-api/src/main/java/service/BroadcastServcie.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/src/main/java/service/BroadcastServcie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-api/src/main/java/service/ChatService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/src/main/java/service/ChatService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-api/src/main/java/service/JwtService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/src/main/java/service/JwtService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-api/src/main/java/service/MailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/src/main/java/service/MailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-api/src/main/java/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/src/main/java/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-api/src/main/java/util/RedisUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/src/main/java/util/RedisUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-api/target/classes/annotation/JwtCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/target/classes/annotation/JwtCheck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-api/target/classes/common/JwtCheckAop.class" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/target/classes/common/JwtCheckAop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-api/target/classes/controller/ExceptionHandlerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/target/classes/controller/ExceptionHandlerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-api/target/classes/entity/ResultEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/target/classes/entity/ResultEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-api/target/classes/model/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/target/classes/model/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-api/target/classes/model/OrderProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/target/classes/model/OrderProduct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-api/target/classes/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/target/classes/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-api/target/classes/model/ZbInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/target/classes/model/ZbInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-api/target/classes/service/BroadcastServcie.class" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/target/classes/service/BroadcastServcie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-api/target/classes/service/JwtService.class" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/target/classes/service/JwtService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-api/target/classes/service/MailService.class" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/target/classes/service/MailService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-api/target/classes/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/target/classes/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-api/target/classes/util/RedisUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/target/classes/util/RedisUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-api/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-api/target/service-api-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/target/service-api-1.0-SNAPSHOT.jar" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/service-api" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="E:\Program Files\JetBrains\IntelliJ IDEA 2019.2.4\plugins\maven\lib\maven3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="jreName" value="1.8" />
+    <option name="runMavenInBackground" value="false" />
+  </component>
+  <component name="ProjectId" id="1kpAOmyGye52IL3mVvmwTn92Qio" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chat2-service/src/main/java/com/scau/chat2service" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.scau.chatservcie" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\学校学习\大三上\java ee\开发\pdd\chat2-service\src\main\java\com\scau\chat2service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SearchServiceApplication">
+    <configuration name="BroadcastServiceApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="broadcast-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scau.broadcastservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.scau.broadcastservice" />
+      <option name="MAIN_CLASS_NAME" value="com.scau.broadcastservice.BroadcastServiceApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupbuyServiceApplicationTests.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="groupbuy-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scau.groupbuyservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.scau.groupbuyservice" />
+      <option name="MAIN_CLASS_NAME" value="com.scau.groupbuyservice.GroupbuyServiceApplicationTests" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupbuyServiceApplicationTests.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="groupbuy-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scau.groupbuyservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.scau.groupbuyservice" />
+      <option name="MAIN_CLASS_NAME" value="com.scau.groupbuyservice.GroupbuyServiceApplicationTests" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchServiceApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="search-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scau.searchservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.scau.searchservice" />
+      <option name="MAIN_CLASS_NAME" value="com.scau.searchservice.SearchServiceApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="user-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scau.userservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.scau.userservice" />
+      <option name="MAIN_CLASS_NAME" value="com.scau.userservice.UserServiceApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BroadcastServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="broadcast-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.scau.broadcastservice.BroadcastServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chat2ServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="chat2-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.scau.chat2service.Chat2ServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatServcieApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="chat-servcie" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.scau.chatservcie.ChatServcieApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DubboCustomerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dubbo-customer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.scau.dubbocustomer.DubboCustomerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="file-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.scau.fileservice.FileServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.scau.gateway.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupbuyServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="groupbuy-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.scau.groupbuyservice.GroupbuyServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PictureServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="picture-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.scau.pictureservice.PictureServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="search-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.scau.searchservice.SearchServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserAppApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-app" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.scau.userapp.UserAppApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.scau.userservice.UserServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SearchServiceApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.BroadcastServiceApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.UserServiceApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.GroupbuyServiceApplicationTests.test4" />
+        <item itemvalue="JUnit.GroupbuyServiceApplicationTests.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4feeb4a-f5fc-4b66-b770-34074435b82d" name="Default Changelist" comment="" />
+      <created>1606387129469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606387129469</updated>
+      <workItem from="1606387132625" duration="3689000" />
+      <workItem from="1606393482859" duration="3135000" />
+      <workItem from="1606400048985" duration="7367000" />
+      <workItem from="1606442352197" duration="20898000" />
+      <workItem from="1606551212505" duration="1678000" />
+      <workItem from="1606559134376" duration="647000" />
+      <workItem from="1606638500876" duration="9422000" />
+      <workItem from="1606704039763" duration="892000" />
+      <workItem from="1606720415094" duration="2642000" />
+      <workItem from="1606805486662" duration="4015000" />
+      <workItem from="1606833451124" duration="1765000" />
+      <workItem from="1606890575732" duration="15548000" />
+      <workItem from="1606970358996" duration="275000" />
+      <workItem from="1606988310984" duration="8224000" />
+      <workItem from="1607048701691" duration="4794000" />
+      <workItem from="1607181667766" duration="2357000" />
+      <workItem from="1607184074683" duration="2491000" />
+      <workItem from="1607220584037" duration="17064000" />
+      <workItem from="1607266410110" duration="2378000" />
+      <workItem from="1607310610055" duration="19479000" />
+      <workItem from="1607415975218" duration="15009000" />
+      <workItem from="1607475697439" duration="1875000" />
+      <workItem from="1607502301695" duration="19175000" />
+      <workItem from="1607567122801" duration="10740000" />
+      <workItem from="1607589267006" duration="12813000" />
+      <workItem from="1607675646394" duration="15240000" />
+      <workItem from="1607847745987" duration="10012000" />
+      <workItem from="1607914777564" duration="4806000" />
+      <workItem from="1607943927656" duration="9262000" />
+      <workItem from="1607999337080" duration="8307000" />
+      <workItem from="1608030236308" duration="12046000" />
+      <workItem from="1608092852239" duration="7719000" />
+      <workItem from="1608108188253" duration="12548000" />
+      <workItem from="1608172780344" duration="7725000" />
+      <workItem from="1608194781966" duration="19516000" />
+      <workItem from="1608280758082" duration="2953000" />
+      <workItem from="1608711739208" duration="349000" />
+      <workItem from="1609303531009" duration="37166000" />
+      <workItem from="1609382182463" duration="12844000" />
+      <workItem from="1609735483572" duration="2536000" />
+      <workItem from="1609821839758" duration="599000" />
+      <workItem from="1609904252997" duration="9712000" />
+      <workItem from="1609915475277" duration="1738000" />
+      <workItem from="1616141298730" duration="69000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.lua" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+server:
+  port: 80
+
+spring:
+  application:
+    name: sc-gateway
+  main:
+    allow-bean-definition-overriding: true
+  cloud:
+    nacos:
+      server-addr: 121.199.45.1:8848
+      username: nacos
+      password: nacos
